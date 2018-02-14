@@ -1,2 +1,2 @@
 # DataScience-DataAnalytics
-Data Science/DataAnalytics Projects
+The repository contains projects related to Data Science/Data Analytics.

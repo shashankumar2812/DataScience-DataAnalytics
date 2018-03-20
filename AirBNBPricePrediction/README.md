@@ -3,7 +3,7 @@
 ## Business Acumen
 As we know, AirBnB is a marketplace for short term rentals that allows to list part or all of your living space for others to rent. Because most of the listings are on a short-term basis, AirBnB has grown to become a popular alternative to hotels. 
 
-One challenge that hosts looking to rent their living space face is determining the optimal nightly rent price. In many areas, renters are presented with a good selection of listings and can filter on criteria like price, number of bedrooms, room type and more. Since AirBnB is a marketplace, the amount a host can charge on a nightly basis is closely linked to the dynamics of the marketplace. As a host, if one tries to put the tariff above market price , then renters will select more affordable similar alternatives. On the other hand, if one sets nightly rent price too low, one will miss out on potential revenue.**We will try to solve this problem by predicting the optimum price for AirBnB listings in Washington DC area.**
+One challenge that hosts looking to rent their living space face is determining the optimal nightly rent price. In many areas, renters are presented with a good selection of listings and can filter on criteria like price, number of bedrooms, room type and more. Since AirBnB is a marketplace, the amount a host can charge on a nightly basis is closely linked to the dynamics of the marketplace. As a host, if one tries to put the tariff above market price , then renters will select more affordable similar alternatives. On the other hand, if one sets nightly rent price too low, one will miss out on potential revenue. **We will try to solve this problem by predicting the optimum price for AirBnB listings in Washington DC area.**
 
 ## Highlights:
 - Data Preprocessing
@@ -12,7 +12,7 @@ One challenge that hosts looking to rent their living space face is determining 
 - HyperParameter optimization
 - kFold cross validation
 - Outlier Analysis
-- Regression techniques used: Linear, knn, Decision Tree and Random Forest
+- Regression techniques used: Linear, k-nearest neighbours, Decision Tree and Random Forest
 - Root Mean Squared Error reduced to half after applying multiple modelling techniques
 
 ## Dataset Description

@@ -18,7 +18,7 @@ This project aims at predicting Ames IOWA Housing prices. The raw dataset has 80
 
 
 ## Dataset Description
-Detailed dataset description can be found [here] (https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt). The raw dataset used in this predictive modelling has been downloaded from [here](https://ww2.amstat.org/publications/jse/v19n3/decock/AmesHousing.txt).  
+Detailed dataset description can be found [here](https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt). The raw dataset used in this predictive modelling has been downloaded from [here](https://ww2.amstat.org/publications/jse/v19n3/decock/AmesHousing.txt).  
 
 
 

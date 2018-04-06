@@ -1,7 +1,7 @@
 # Housing Price Predictions
 
 ## Business Acumen
-This project aims at predicting Ames IOWA Housing prices. The raw dataset has 80 features. The motivation behind collecting data can be found [here](http://ww2.amstat.org/publications/jse/v19n3/decock.pdf).
+This project targets at predicting Housing prices for Ames IOWA. The raw dataset has 80 features. The motivation behind collecting data can be found [here](http://ww2.amstat.org/publications/jse/v19n3/decock.pdf).
 
 ## Highlights:
 - Data Preprocessing

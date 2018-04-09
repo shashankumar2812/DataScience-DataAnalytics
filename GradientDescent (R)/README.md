@@ -6,8 +6,6 @@ The project aims at showing simple gradient descent implementation on iris datas
 
 ## Dataset Description
 
-DataSet:
-
 IRIS Dataset is downloaded from UCI ML Repository which can be accessed [here](https://archive.ics.uci.edu/ml/datasets/iris). Data Set has four features and Data Set is updated to have just two classes(Third class is removed from the data Set)
 Class/target variable is updated to have just two classes +1/-1. 
 

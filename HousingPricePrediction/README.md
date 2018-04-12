@@ -14,7 +14,7 @@ This project targets at predicting Housing prices for Ames IOWA. The raw dataset
 - HyperParameter optimization
 - kFold cross validation
 - Outlier Analysis
-- Regression techniques used: Linear, and Random Forest
+
 
 
 ## Dataset Description

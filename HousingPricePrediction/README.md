@@ -10,7 +10,7 @@ This project targets at predicting Housing prices for Ames IOWA. The raw dataset
 - Feature Engineering
 - Feature Selection
 - Backward/Forward/Stepwise Regression
-- Regularization
+- Ridge/Lasso Regularization
 - HyperParameter optimization
 - kFold cross validation
 - Outlier Analysis
